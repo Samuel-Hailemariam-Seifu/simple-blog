@@ -1,0 +1,16 @@
+[
+  {
+    "slug": "first-post",
+    "title": "My First Blog Post",
+    "date": "2024-03-20",
+    "author": "Your Name",
+    "tags": ["react", "javascript", "beginners"]
+  },
+  {
+    "slug": "second-post",
+    "title": "Another Great Post",
+    "date": "2024-03-21",
+    "author": "Your Name",
+    "tags": ["react", "routing", "tutorial"]
+  }
+] 
